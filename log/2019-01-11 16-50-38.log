@@ -1,0 +1,235 @@
+2019-01-11 16:50:38,755 - hhymyi - INFO - 开始
+2019-01-11 16:50:38,755 - hhymyi - INFO - 第1次爬取 开始
+2019-01-11 16:50:38,755 - hhymyi - INFO -    第1页
+2019-01-11 16:50:39,837 - hhymyi - INFO -    response200
+2019-01-11 16:50:39,840 - hhymyi - INFO - https://www.smzdm.com/p/12291337/
+2019-01-11 16:50:41,092 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:50:41,148 - hhymyi - INFO - https://www.smzdm.com/p/12280490/
+2019-01-11 16:50:46,345 - hhymyi - INFO -    重试中
+2019-01-11 16:50:46,346 - hhymyi - INFO - https://www.smzdm.com/p/12280490/
+2019-01-11 16:50:47,489 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:50:47,529 - hhymyi - INFO - https://post.smzdm.com/p/awxlpv5p/
+2019-01-11 16:50:49,087 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:50:49,137 - hhymyi - INFO - https://www.smzdm.com/p/12287336/
+2019-01-11 16:50:54,262 - hhymyi - INFO -    重试中
+2019-01-11 16:50:54,262 - hhymyi - INFO - https://www.smzdm.com/p/12287336/
+2019-01-11 16:50:55,649 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:50:55,670 - hhymyi - INFO - https://www.smzdm.com/p/12293621/
+2019-01-11 16:51:00,790 - hhymyi - INFO -    重试中
+2019-01-11 16:51:00,791 - hhymyi - INFO - https://www.smzdm.com/p/12293621/
+2019-01-11 16:51:02,022 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:02,060 - hhymyi - INFO - https://www.smzdm.com/p/12293057/
+2019-01-11 16:51:03,257 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:03,288 - hhymyi - INFO - https://www.smzdm.com/p/12280654/
+2019-01-11 16:51:04,421 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:04,452 - hhymyi - INFO - https://www.smzdm.com/p/12276373/
+2019-01-11 16:51:05,712 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:05,727 - hhymyi - INFO - https://www.smzdm.com/p/12289323/
+2019-01-11 16:51:07,313 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:07,342 - hhymyi - INFO - https://www.smzdm.com/p/12291122/
+2019-01-11 16:51:08,370 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:08,398 - hhymyi - INFO - https://www.smzdm.com/p/12293398/
+2019-01-11 16:51:09,494 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:09,536 - hhymyi - INFO - https://www.smzdm.com/p/12293372/
+2019-01-11 16:51:10,367 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:10,408 - hhymyi - INFO - https://www.smzdm.com/p/12292717/
+2019-01-11 16:51:11,322 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:11,353 - hhymyi - INFO - https://www.smzdm.com/p/12288672/
+2019-01-11 16:51:12,413 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:12,442 - hhymyi - INFO - https://www.smzdm.com/p/12293399/
+2019-01-11 16:51:13,398 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:13,404 - hhymyi - INFO - https://www.smzdm.com/p/12291728/
+2019-01-11 16:51:14,378 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:14,397 - hhymyi - INFO - https://www.smzdm.com/p/12292966/
+2019-01-11 16:51:15,281 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:15,297 - hhymyi - INFO - https://www.smzdm.com/p/12282817/
+2019-01-11 16:51:20,371 - hhymyi - INFO -    重试中
+2019-01-11 16:51:20,372 - hhymyi - INFO - https://www.smzdm.com/p/12282817/
+2019-01-11 16:51:21,381 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:21,418 - hhymyi - INFO - https://www.smzdm.com/p/12291700/
+2019-01-11 16:51:26,506 - hhymyi - INFO -    重试中
+2019-01-11 16:51:26,506 - hhymyi - INFO - https://www.smzdm.com/p/12291700/
+2019-01-11 16:51:27,434 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:27,460 - hhymyi - INFO - https://www.smzdm.com/p/12291840/
+2019-01-11 16:51:28,318 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:28,347 - hhymyi - INFO -    第2页
+2019-01-11 16:51:28,799 - hhymyi - INFO -    response200
+2019-01-11 16:51:28,815 - hhymyi - INFO - https://www.smzdm.com/p/12292184/
+2019-01-11 16:51:29,960 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:29,996 - hhymyi - INFO - https://www.smzdm.com/p/12291838/
+2019-01-11 16:51:31,161 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:31,191 - hhymyi - INFO - https://www.smzdm.com/p/12292954/
+2019-01-11 16:51:32,548 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:32,562 - hhymyi - INFO - https://www.smzdm.com/p/12293280/
+2019-01-11 16:51:33,974 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:33,980 - hhymyi - INFO - https://www.smzdm.com/p/12281756/
+2019-01-11 16:51:35,003 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:35,027 - hhymyi - INFO - https://www.smzdm.com/p/12288820/
+2019-01-11 16:51:36,013 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:36,043 - hhymyi - INFO - https://www.smzdm.com/p/12276178/
+2019-01-11 16:51:37,017 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:37,055 - hhymyi - INFO - https://www.smzdm.com/p/12292982/
+2019-01-11 16:51:38,034 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:38,065 - hhymyi - INFO - https://www.smzdm.com/p/12293120/
+2019-01-11 16:51:39,324 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:39,359 - hhymyi - INFO - https://www.smzdm.com/p/12293119/
+2019-01-11 16:51:44,549 - hhymyi - INFO -    重试中
+2019-01-11 16:51:44,550 - hhymyi - INFO - https://www.smzdm.com/p/12293119/
+2019-01-11 16:51:45,921 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:45,932 - hhymyi - INFO - https://www.smzdm.com/p/12290441/
+2019-01-11 16:51:46,948 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:46,980 - hhymyi - INFO - https://test.smzdm.com/p/7157/
+2019-01-11 16:51:48,431 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:48,478 - hhymyi - INFO - https://www.smzdm.com/p/12277382/
+2019-01-11 16:51:49,538 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:49,562 - hhymyi - INFO - https://www.smzdm.com/p/12293265/
+2019-01-11 16:51:50,598 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:50,615 - hhymyi - INFO - https://www.smzdm.com/p/12292399/
+2019-01-11 16:51:51,717 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:51,745 - hhymyi - INFO - https://www.smzdm.com/p/12290796/
+2019-01-11 16:51:52,965 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:52,989 - hhymyi - INFO - https://www.smzdm.com/p/12293177/
+2019-01-11 16:51:54,117 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:54,122 - hhymyi - INFO - https://www.smzdm.com/p/12293116/
+2019-01-11 16:51:55,171 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:55,203 - hhymyi - INFO - https://www.smzdm.com/p/12279617/
+2019-01-11 16:51:56,758 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:56,779 - hhymyi - INFO - https://www.smzdm.com/p/12293153/
+2019-01-11 16:51:58,164 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:51:58,176 - hhymyi - INFO -    第3页
+2019-01-11 16:51:58,927 - hhymyi - INFO -    response200
+2019-01-11 16:51:58,941 - hhymyi - INFO - https://www.smzdm.com/p/12279617/
+2019-01-11 16:52:00,142 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:00,164 - hhymyi - INFO - https://www.smzdm.com/p/12293153/
+2019-01-11 16:52:01,308 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:01,347 - hhymyi - INFO - https://www.smzdm.com/p/12289333/
+2019-01-11 16:52:02,558 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:02,581 - hhymyi - INFO - https://www.smzdm.com/p/12292109/
+2019-01-11 16:52:03,782 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:03,819 - hhymyi - INFO - https://www.smzdm.com/p/12291198/
+2019-01-11 16:52:04,897 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:04,933 - hhymyi - INFO - https://www.smzdm.com/p/12291454/
+2019-01-11 16:52:06,040 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:06,054 - hhymyi - INFO - https://www.smzdm.com/p/12287344/
+2019-01-11 16:52:07,264 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:07,293 - hhymyi - INFO - https://www.smzdm.com/p/12292564/
+2019-01-11 16:52:08,836 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:08,880 - hhymyi - INFO - https://www.smzdm.com/p/12292948/
+2019-01-11 16:52:10,188 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:10,226 - hhymyi - INFO - https://www.smzdm.com/p/12292662/
+2019-01-11 16:52:11,427 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:11,459 - hhymyi - INFO - https://www.smzdm.com/p/12288310/
+2019-01-11 16:52:12,697 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:12,727 - hhymyi - INFO - https://post.smzdm.com/p/a5k6v3gx/
+2019-01-11 16:52:14,297 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:14,354 - hhymyi - INFO - https://www.smzdm.com/p/12293192/
+2019-01-11 16:52:15,551 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:15,591 - hhymyi - INFO - https://www.smzdm.com/p/12293007/
+2019-01-11 16:52:16,781 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:16,806 - hhymyi - INFO - https://www.smzdm.com/p/12293001/
+2019-01-11 16:52:18,030 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:18,064 - hhymyi - INFO - https://news.smzdm.com/p/70102990/
+2019-01-11 16:52:19,134 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:19,183 - hhymyi - INFO - https://www.smzdm.com/p/12292165/
+2019-01-11 16:52:20,710 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:20,747 - hhymyi - INFO - https://www.smzdm.com/p/12291699/
+2019-01-11 16:52:22,049 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:22,614 - hhymyi - INFO - 消息：{"articleId": "12291699", "title": "\u597d\u4ef7-\u503c-Ant life \u9ad8\u787c\u7845\u73bb\u7483\u6cb9\u74f6 500ml 3\u74f6\u88c5", "url": "https://www.smzdm.com/p/12291699/"}
+2019-01-11 16:52:22,629 - hhymyi - INFO - https://www.smzdm.com/p/12293046/
+2019-01-11 16:52:23,795 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:23,843 - hhymyi - INFO - 消息：{"articleId": "12293046", "title": "\u597d\u4ef7-\u503c-HUANG SHANG \u7687\u5c1a \u82f9\u679c\u6570\u636e\u7ebf 1.8m", "url": "https://www.smzdm.com/p/12293046/"}
+2019-01-11 16:52:23,844 - hhymyi - INFO - https://www.smzdm.com/p/12293071/
+2019-01-11 16:52:25,020 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:25,055 - hhymyi - INFO -    第4页
+2019-01-11 16:52:30,155 - hhymyi - INFO -    重试中
+2019-01-11 16:52:30,155 - hhymyi - INFO -    第4页
+2019-01-11 16:52:30,832 - hhymyi - INFO -    response200
+2019-01-11 16:52:30,842 - hhymyi - INFO - https://www.smzdm.com/p/12293071/
+2019-01-11 16:52:32,314 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:32,359 - hhymyi - INFO - https://www.smzdm.com/p/12293104/
+2019-01-11 16:52:33,861 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:33,893 - hhymyi - INFO - https://www.smzdm.com/p/12292775/
+2019-01-11 16:52:35,472 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:35,494 - hhymyi - INFO - https://www.smzdm.com/p/12292559/
+2019-01-11 16:52:36,869 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:36,886 - hhymyi - INFO - https://www.smzdm.com/p/12293051/
+2019-01-11 16:52:38,029 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:38,041 - hhymyi - INFO - https://www.smzdm.com/p/12287866/
+2019-01-11 16:52:39,306 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:39,330 - hhymyi - INFO - https://post.smzdm.com/p/a78eopz5/
+2019-01-11 16:52:40,526 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:40,594 - hhymyi - INFO - https://www.smzdm.com/p/12292695/
+2019-01-11 16:52:41,824 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:41,860 - hhymyi - INFO - https://www.smzdm.com/p/12291363/
+2019-01-11 16:52:42,963 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:42,980 - hhymyi - INFO - https://www.smzdm.com/p/12282944/
+2019-01-11 16:52:44,169 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:44,210 - hhymyi - INFO - https://www.smzdm.com/p/12292905/
+2019-01-11 16:52:45,405 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:45,428 - hhymyi - INFO - https://www.smzdm.com/p/12292480/
+2019-01-11 16:52:51,856 - hhymyi - INFO -    重试中
+2019-01-11 16:52:51,856 - hhymyi - INFO - https://www.smzdm.com/p/12292480/
+2019-01-11 16:52:53,027 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:53,065 - hhymyi - INFO - https://www.smzdm.com/p/12288601/
+2019-01-11 16:52:54,055 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:54,069 - hhymyi - INFO - https://www.smzdm.com/p/12284321/
+2019-01-11 16:52:55,292 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:55,327 - hhymyi - INFO - https://www.smzdm.com/p/12252501/
+2019-01-11 16:52:56,498 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:56,508 - hhymyi - INFO - https://www.smzdm.com/p/12292970/
+2019-01-11 16:52:57,593 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:52:57,627 - hhymyi - INFO - https://www.smzdm.com/p/12283794/
+2019-01-11 16:53:02,858 - hhymyi - INFO -    重试中
+2019-01-11 16:53:02,858 - hhymyi - INFO - https://www.smzdm.com/p/12283794/
+2019-01-11 16:53:04,141 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:04,176 - hhymyi - INFO - https://www.smzdm.com/p/12292769/
+2019-01-11 16:53:05,367 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:05,400 - hhymyi - INFO - https://www.smzdm.com/p/12291050/
+2019-01-11 16:53:06,605 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:06,627 - hhymyi - INFO - https://www.smzdm.com/p/12292958/
+2019-01-11 16:53:07,739 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:07,768 - hhymyi - INFO -    第5页
+2019-01-11 16:53:08,473 - hhymyi - INFO -    response200
+2019-01-11 16:53:08,480 - hhymyi - INFO - https://www.smzdm.com/p/12291050/
+2019-01-11 16:53:09,614 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:09,647 - hhymyi - INFO - https://www.smzdm.com/p/12292958/
+2019-01-11 16:53:11,246 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:11,280 - hhymyi - INFO - https://www.smzdm.com/p/12292754/
+2019-01-11 16:53:12,533 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:12,541 - hhymyi - INFO - https://www.smzdm.com/p/12252411/
+2019-01-11 16:53:13,729 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:13,765 - hhymyi - INFO - https://www.smzdm.com/p/12292764/
+2019-01-11 16:53:14,788 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:14,823 - hhymyi - INFO - https://www.smzdm.com/p/12283698/
+2019-01-11 16:53:16,318 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:16,390 - hhymyi - INFO - 消息：{"articleId": "12283698", "title": "\u597d\u4ef7-\u503c-ID-COOLING Frostflow+ 280\u6d77\u5916\u7248 \u4e00\u4f53\u5f0fCPU\u6c34\u51b7\u6563\u70ed\u5668", "url": "https://www.smzdm.com/p/12283698/"}
+2019-01-11 16:53:16,391 - hhymyi - INFO - https://www.smzdm.com/p/12277915/
+2019-01-11 16:53:17,524 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:17,545 - hhymyi - INFO - https://www.smzdm.com/p/12292261/
+2019-01-11 16:53:18,781 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:18,850 - hhymyi - INFO - 消息：{"articleId": "12292261", "title": "\u597d\u4ef7-\u503c-Miiow \u732b\u4eba \u513f\u7ae5\u4e2d\u957f\u6b3e\u7fbd\u7ed2\u670d", "url": "https://www.smzdm.com/p/12292261/"}
+2019-01-11 16:53:18,851 - hhymyi - INFO - https://www.smzdm.com/p/12292003/
+2019-01-11 16:53:19,898 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:19,933 - hhymyi - INFO - https://post.smzdm.com/p/a25rne57/
+2019-01-11 16:53:21,385 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:21,468 - hhymyi - INFO - https://www.smzdm.com/p/12292751/
+2019-01-11 16:53:22,938 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:22,968 - hhymyi - INFO - https://www.smzdm.com/p/12292560/
+2019-01-11 16:53:24,228 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:24,244 - hhymyi - INFO - https://www.smzdm.com/p/12292849/
+2019-01-11 16:53:25,755 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:25,797 - hhymyi - INFO - https://www.smzdm.com/p/12292944/
+2019-01-11 16:53:27,079 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:27,116 - hhymyi - INFO - https://www.smzdm.com/p/12292606/
+2019-01-11 16:53:28,332 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:28,378 - hhymyi - INFO - https://www.smzdm.com/p/12288704/
+2019-01-11 16:53:29,648 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:29,685 - hhymyi - INFO - https://www.smzdm.com/p/12292271/
+2019-01-11 16:53:30,986 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:31,029 - hhymyi - INFO - https://www.smzdm.com/p/12292567/
+2019-01-11 16:53:32,300 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:32,345 - hhymyi - INFO - https://www.smzdm.com/p/12291892/
+2019-01-11 16:53:35,620 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:35,669 - hhymyi - INFO - https://www.smzdm.com/p/12291192/
+2019-01-11 16:53:37,267 - hhymyi - INFO - sub_resp 200
+2019-01-11 16:53:37,296 - hhymyi - INFO - 第1次爬取 结束
