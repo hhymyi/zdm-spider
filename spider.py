@@ -59,7 +59,10 @@ def creep(p, retry=True):
             return None
     logger.info('   response' + str(response.status_code))
     if response.status_code == 200:
-        resp = json.loads(response.text)
+        try:
+            resp = json.loads(response.text)
+        except BaseException as e:
+            logger.info('json出错' + str(json))
         if resp['error_code'] == 0 and len(resp['data']) > 0:
             for row in resp['data']:
                 # print(row)
@@ -90,7 +93,11 @@ def creep_row(row, retry=True):
     logger.info('sub_resp ' + str(sub_resp.status_code))
     if sub_resp.status_code == 200:
         # logger.info(sub_resp.text)
-        doc = pq(sub_resp.text)
+        try:
+            doc = pq(sub_resp.text)
+        except:
+            logger.info('内容出错' + str(sub_resp.text))
+            return None
         if article_type == '好价':
             worth = doc('#rating_worthy_num').text()  # 值
             un_worth = doc('#rating_unworthy_num').text()  # 不值
@@ -109,4 +116,3 @@ def creep_row(row, retry=True):
 
 if __name__ == '__main__':
     loop()
-
