@@ -75,43 +75,44 @@ def creep(p, retry=True):
 
 
 def creep_row(row, retry=True):
-    article_id = row.get('article_id')
-    title = ''
-    article_url = row['article_url']
-    article_type = row.get('article_type')  # 文章类型：好价、好文
-    logger.info(article_url)
-    sub_resp = None
     try:
-        sub_resp = requests.get(article_url, headers=headers, timeout=5)
-    except:
-        if retry:
-            logger.info('   重试中')
-            return creep_row(row, False)
-        else:
-            return None
-    time.sleep(0.5)
-    logger.info('sub_resp ' + str(sub_resp.status_code))
-    if sub_resp.status_code == 200:
-        # logger.info(sub_resp.text)
+        article_id = row.get('article_id')
+        title = ''
+        article_url = row['article_url']
+        article_type = row.get('article_type')  # 文章类型：好价、好文
+        logger.info(article_url)
+        sub_resp = None
         try:
-            doc = pq(sub_resp.text)
+            sub_resp = requests.get(article_url, headers=headers, timeout=5)
         except:
-            logger.info('内容出错' + str(sub_resp.text))
-            return None
-        if article_type == '好价':
-            worth = doc('#rating_worthy_num').text()  # 值
-            un_worth = doc('#rating_unworthy_num').text()  # 不值
-            comment_num = doc(
-                'body > section > div.leftWrap > div.operate_box > div.operate_icon > a.comment > em').text()  # 评论数量
-            if int(worth) + int(un_worth) > 20 and int(worth) / (int(worth) + int(un_worth)) > 0.8:
-                title = article_type + '-值-' + row.get('article_title')
-            elif int(comment_num) > 50:
-                title = article_type + '-热议-' + row.get('article_title')
-            if len(title) > 0:
-                check_res = requests.get(check_url + str(article_id))
-                if check_res.status_code == 200 and len(check_res.text) == 0:
-                    return_obj = {'articleId': article_id, 'title': title, 'url': article_url}
-                    return json.dumps(return_obj)
+            if retry:
+                logger.info('   重试中')
+                return creep_row(row, False)
+            else:
+                return None
+        time.sleep(0.5)
+        logger.info('sub_resp ' + str(sub_resp.status_code))
+        if sub_resp.status_code == 200:
+            # logger.info(sub_resp.text)
+            doc = pq(sub_resp.text)
+            if article_type == '好价':
+                worth = doc('#rating_worthy_num').text()  # 值
+                un_worth = doc('#rating_unworthy_num').text()  # 不值
+                comment_num = doc(
+                    '#feed-main > div.item-name > div.operate_box > div.operate_icon > a.comment > em').text()  # 评论数量
+                if int(worth) + int(un_worth) > 20 and int(worth) / (int(worth) + int(un_worth)) > 0.8:
+                    title = article_type + '-值-' + row.get('article_title')
+                elif int(comment_num) > 50:
+                    title = article_type + '-热议-' + row.get('article_title')
+                if len(title) > 0:
+                    check_res = requests.get(check_url + str(article_id))
+                    if check_res.status_code == 200 and len(check_res.text) == 0:
+                        return_obj = {'articleId': article_id, 'title': title, 'url': article_url}
+                        return json.dumps(return_obj)
+    except BaseException as e:
+        logger.info('爬取出错' + article_url)
+        logger.info('爬取出错' + str(e))
+        return None
 
 
 if __name__ == '__main__':
